@@ -8,5 +8,7 @@ You can acquire it from Chrome or Firefox Extensions.
 
 The sample user information is follows:
 Email    : yoyemi8226@eqvox.com
-Password : 7o7Em!$te
+Password : 7o7Em!$te (Password Awal)
+Password : Yosemite (Password Kedua)
+Password : Yos3mit3 (Password Ketiga)
 Username : YoyemiS66240
