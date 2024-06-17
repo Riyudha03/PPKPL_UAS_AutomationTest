@@ -8,9 +8,9 @@
 ```
 The sample user information is follows:
 
-Email    : yoyemi8226@eqvox.com
-Password : 7o7Em!$te (Password Awal Tes)
-Password : Yosemite (Password 1 - Tes Ganti Password)
-Password : Yos3mit3 (Password 2 - Tes Ganti Password)
-Username : YoyemiS66240
+Email     : yoyemi8226@eqvox.com
+Username  : veejadm
+Access Ps.: veeshanji (first change)
+          : v33sh@nj (2nd change)
+Email     : vejades663@jadsys.com
 ```
