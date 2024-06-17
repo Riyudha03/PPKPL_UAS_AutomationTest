@@ -2,11 +2,7 @@
 * This Testing Involves Login, Posting, Replying, Searching, and etc.
 * Keep in mind that some testing requires prequisites to start.
 * Posting and Replying involves uploading picture from your device.
-* Folder containing sample pictures is provided for Posting and Replying.
-* The testing Tool used for web test is Selenium IDE Webdriver. 
-* You can acquire it from Chrome or Firefox Extensions.
-* We provide Video Test to present how testing works.
-* Folder containing testing codes are also provided.
+* The testing Tool used for web test is Selenium IDE Webdriver.
 
 * Sample Photos: https://drive.google.com/drive/folders/1yMWcBXbZhWkjht_hbMWg4P5n5Wo8_d6M
 
