@@ -8,6 +8,8 @@
 * We provide Video Test to present how testing works.
 * Folder containing testing codes are also provided.
 
+* Sample Photos: https://drive.google.com/drive/folders/1yMWcBXbZhWkjht_hbMWg4P5n5Wo8_d6M
+
 Warning:
 - If you perform login too much, or changing password a lot...
 - There's a chance for this account to be banned.
