@@ -15,7 +15,6 @@ Warning:
 ```
 The sample user information is follows:
 
-Email     : yoyemi8226@eqvox.com
 Username  : veejadm
 Access Ps.: veeshanji (first change)
           : v33sh@nj (2nd change)
