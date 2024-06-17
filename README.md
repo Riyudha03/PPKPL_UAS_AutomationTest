@@ -3,7 +3,7 @@
 * Keep in mind that some testing requires prequisites to start.
 * Posting and Replying involves uploading picture from your device.
 * The testing Tool used for web test is Selenium IDE Webdriver.
-* X Test.side is the file to open "X Test" project in Selenium IDE Webdriver. 
+* 'X Test.side' is the file to open "X Test" project in Selenium IDE Webdriver. 
 
 * Sample Photos: https://drive.google.com/drive/folders/1yMWcBXbZhWkjht_hbMWg4P5n5Wo8_d6M
 * Test Videos  : https://drive.google.com/drive/folders/1cjm8odNcOWttIfWMRts_dqe9pK5h7lCE
