@@ -5,6 +5,8 @@
 * Folder containing sample pictures is provided for Posting and Replying.
 * The testing Tool used for web test is Selenium IDE Webdriver. 
 * You can acquire it from Chrome or Firefox Extensions.
+* We provide Video Test to present how testing works.
+* Folder containing testing codes are also provided.
 
 Warning:
 - If you perform login too much, or changing password a lot...
